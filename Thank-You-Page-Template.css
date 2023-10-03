@@ -13,3 +13,9 @@
 .u-section-1 .u-text-2 {
   margin: 20px auto 60px;
 }
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    margin-bottom: 60px;
+  }
+}
